@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Khairnar
+ *
+ */
+module Example {
+}
